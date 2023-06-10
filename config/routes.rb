@@ -9,9 +9,17 @@ Rails.application.routes.draw do
   root "api/v1/ai#info", format: 'json'  
 
   namespace :api do
+    
     namespace :v1 do
+
       resources :disasters
+
+      get  '/info', to: 'ai#info'
+      post  '/data', to: 'ai#data'
+
+
     end
+
   end
 
 
