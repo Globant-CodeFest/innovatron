@@ -53,5 +53,5 @@ gem 'pg'
 gem 'will_paginate'
 gem 'faker'
 gem 'nokogiri', '~> 1.14', '>= 1.14.1'
-gem 'openai', '~> 0.2.0'
+gem 'openai'
 

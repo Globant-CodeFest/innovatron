@@ -116,6 +116,7 @@ GEM
     nio4r (2.5.9)
     nokogiri (1.15.2-x86_64-darwin)
       racc (~> 1.4)
+    openai (0.3.0)
     pg (1.5.3)
     puma (5.6.5)
       nio4r (~> 2.0)
@@ -177,6 +178,7 @@ DEPENDENCIES
   figaro
   jbuilder
   nokogiri (~> 1.14, >= 1.14.1)
+  openai
   pg
   puma (~> 5.0)
   rack-cors
