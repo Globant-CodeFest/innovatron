@@ -29,7 +29,7 @@ class OpenAiInnovatron
     #openai_client.engine("text-davinci-003")
 
     # Create Completion
-    response = openai_client.completions(prompt: search, max_tokens: 3)
+    response = openai_client.completions(prompt: search, max_tokens: 200)
 
     puts response
     return response

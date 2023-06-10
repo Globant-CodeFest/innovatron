@@ -5,9 +5,8 @@ namespace :disasters do
     desc "Disasters"
   
     task import_disaster_data: :environment do
-  
-      ap 'Sirve!!!!'
 
+      # https://www.kaggle.com/datasets/brsdincer/all-natural-disasters-19002021-eosdis
       file_path = Rails.public_path.join('disasters.csv')
       
       CSV.foreach(file_path, headers: true) do |row|
