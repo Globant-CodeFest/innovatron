@@ -1,12 +1,12 @@
 # TRAVEL EXPERT 
 
-Es una plataforma integral que brinda a los viajeros recomendaciones basadas en datos climáticos y de desastres naturales históricos.
+Es una plataforma que ayuda a los viajeros a escoger las mejores opciones para sus vacaciones.
 
 # Objetivo
 
-Es minimizar los riesgos asociados a los destinos de viaje y garantizar unas vacaciones seguras y exitosas. Además, la plataforma proporciona alternativas de destinos con un menor porcentaje de desastres naturales, utilizando algoritmos avanzados para comparar y sugerir opciones más seguras. 
+Reliza un análisis de los datos climáticos, el registro histórico de fenómenos naturales y extrapolar datos en la web; como reseñas y rankings de destinos turísticos, actividades, alojamientos y lugares donde comer, para generar sugerencias y ofrecer información al instante, evitando al usuario horas investigando sitios y blogs de viajes. 
 
-Se trabajo con el data set es proporcionado para el evento.
+Se trabajo con el data set que fue proporcionado para el evento.
 
 Integrante del equipo Innovatron
 # Mirelys Diaz
